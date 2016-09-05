@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints
+taxi_ticket_data/tickets.csv.gz
+taxi_ticket_data/taxi_tickets.csv
+taxi_ticket_data/residential_business_parking/*.csv
